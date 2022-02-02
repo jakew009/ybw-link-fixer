@@ -23,15 +23,11 @@
     }
 
     const links = [...document.links]
-
     links.forEach((link) => {
         const threadId = extractThreadId(link.href)
         if (threadId) {
-
-            console.log("thread id", threadId)
             link.href = rewriteThreadUrl(threadId)
             link.text = rewriteThreadUrl(threadId)
-            console.log("new link", link.href)
         }
     })
 
