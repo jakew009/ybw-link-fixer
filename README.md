@@ -15,8 +15,10 @@ https://forums.ybw.com/index.php?threads/470933
 ### Google Chrome
 - Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) from the Google Chrome store.
 - Then click here to install the script: [Install](https://github.com/jakew009/ybw-link-fixer/raw/main/ybw-link-fixer.user.js)
+- And when prompted on the screen that opens, click 'Install'
 
 ### Firefox
 - Make sure you have [Greasemonkey](https://addons.mozilla.org/en-GB/firefox/addon/greasemonkey/) installed 
 - Then click here to install the script: [Install](https://github.com/jakew009/ybw-link-fixer/raw/main/ybw-link-fixer.user.js)
+- And when prompted on the screen that opens, click 'Install'
 
