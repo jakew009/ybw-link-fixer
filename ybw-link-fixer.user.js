@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         YBW Broken Link Fixer
-// @namespace    http://tampermonkey.net/
+// @name         YBW Link Fixer
+// @namespace    https://github.com/jakew009/ybw-link-fixer
 // @version      0.1
 // @description  YBW can't be bothered to fix the old links on the forum, so this script will do it for you.
 // @author       Jake Withecombe
